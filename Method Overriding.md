@@ -15,8 +15,8 @@ To write a Python program that demonstrates class inheritance by creating a pare
 
 ## 💻 PROGRAM:
 ```
-Developed By: Preethika N
-REG NO : 212223040130
+Developed By: M KRISHNA KUMARAN
+REG NO : 212224110033
 ```
 ```
 class Fish:
