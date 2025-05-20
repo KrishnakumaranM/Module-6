@@ -24,8 +24,8 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 
 ## 💻 Program
 ```
-Developed By: Preethika N
-REG NO : 212223040130
+Developed By: M KRISHNA KUMARAN
+REG NO : 212224110033
 ```
 ```
   class Rectangle:
