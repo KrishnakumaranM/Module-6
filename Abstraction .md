@@ -30,8 +30,8 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
 
 ## 💻 Program
 ```
-Developed By: Preethika N
-REG NO : 212223040130
+Developed By: M KRISHNA KUMARAN
+REG NO : 212224110033
 ```
 ```
 from abc import ABC
